@@ -1,0 +1,10 @@
+☕ Classic Hot Coffee Drinks
+Drink	Description
+Espresso	A strong shot of coffee made by forcing hot water through finely ground beans.
+Americano	Espresso + hot water (lighter than espresso but still strong).
+Latte	Espresso + steamed milk + a thin layer of milk foam.
+Cappuccino	Equal parts espresso, steamed milk, and thick foam.
+Flat White	Similar to a latte but with more espresso and less milk.
+Macchiato	Espresso “stained” with a little milk or foam.
+Mocha	Espresso + steamed milk + chocolate syrup or cocoa + whipped cream.
+Café au Lait	Brewed coffee + steamed milk (French-style).
